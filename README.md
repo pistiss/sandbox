@@ -1,2 +1,3 @@
 # sandbox
-Un repository nel quale fare pasticci per esercitarsi con github.
+Questo è un repository che potrai utilizzare per fare le tue prove.
+Esegui un fork sul tuo account, genera le modifiche e infine fai una pull request perché queste siano integrate.
