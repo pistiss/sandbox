@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,500&display=swap');
+
+body{
+    background-color: white;
+    margin: 0 auto;
+    width: 1200px;
+}
+
+P{
+    color: grey;
+    padding: 10px;
+    margin-bottom: 15px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;
+    font-family: "Cabin", "Trebuchet MS", sans-serif ;
+    font-size: 16px;
+    
+    
+}
+
+
+
+.box1{
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 500px;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+.box2{
+    position: fixed;
+    background-color: white;
+    height: 70px;
+    background-repeat: no-repeat;
+    right: 30px;
+
+
+}
+
+
+.box3{
+    color: grey;
+    padding: 10px;
+    margin-bottom: 15px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-family: "Cabin", "Trebuchet MS", sans-serif ;
+    font-size: 16px;
+    font-weight: 700;
+    box-sizing: border-box;
+}
+
+.testo{
+    
+    text-align: right;
+    line-height: 1.4em;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+
+.link{
+    color:blue;
+}
+
+.h3{
+    box-sizing: border-box;
+    font-family: 'Cabin', sans-serif;
+    text-align: left;
+    line-height: 1.4em;
+    font-weight: 700;
+    font-size: x-large;
+
+}
+
+.h4{
+    font-family: 'Cabin', sans-serif;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    font-size: 18px;
+    
+}
+
+.testo1{
+    text-align: left;
+    line-height: 1.4em;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;
+    
+}
+
+
+
+input[type="text"],
+input[type="text"], 
+textarea[id="msg"],
+input[type="tel"],
+input[type="color"],
+input[type="checkbox"],
+input[type="checkbox"],
+input[type="checkbox"],
+input[type="checkbox"],
+select[name="panini"],
+input[type="email"]
+{
+    border: 2px solid rgb(153, 153, 153);
+    margin: 0 0 1em 0;
+    padding: 3px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    border-radius: 5px;
+    font-size: 2em;
+}
+
+
+.id{
+    color: seagreen;
+}
